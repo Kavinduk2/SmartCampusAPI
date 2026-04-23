@@ -1,0 +1,15 @@
+com\smartcampus\filters\LoggingFilter.class
+com\smartcampus\exceptions\LinkedResourceNotFoundException.class
+com\smartcampus\exceptions\GenericExceptionMapper.class
+com\smartcampus\exceptions\LinkedResourceNotFoundExceptionMapper.class
+com\smartcampus\models\SensorReading.class
+com\smartcampus\exceptions\RoomNotEmptyException.class
+com\smartcampus\models\ErrorMessage.class
+com\smartcampus\models\Room.class
+com\smartcampus\config\ApiConfig.class
+com\smartcampus\models\Sensor.class
+com\smartcampus\resources\RoomResource.class
+com\smartcampus\resources\SensorReadingResource.class
+com\smartcampus\exceptions\RoomNotEmptyExceptionMapper.class
+com\smartcampus\resources\SensorResource.class
+com\smartcampus\resources\DiscoveryResource.class
