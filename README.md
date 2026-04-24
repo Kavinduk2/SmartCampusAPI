@@ -107,3 +107,4 @@ To evaluate this API, open Postman and ensure your server is running at `http://
 ## Design & Configuration Notes
 * **Explicit Registration:** To ensure maximum compatibility and avoid Tomcat classpath scanning bugs, all JAX-RS controllers and providers are explicitly registered using the `ApiConfig` class (extending `ResourceConfig`).
 * **In-Memory Data:** The application utilizes thread-safe data structures (`ConcurrentHashMap`) to persist data in-memory during the server runtime.
+## The Answers to the Questions are available in CSA-W2120050.pdf In this repository
